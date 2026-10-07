@@ -21,14 +21,14 @@
 #### 💼 Work Experience
 
 <p>
-<strong>CloudMinds</strong> -- <code>Test Development Engineer</code> -- <code>2024.04 to 2024.07.</code>
+<strong>CloudMinds</strong> -- <code>AI Robot Test Automation</code> -- <code>2024.04 to 07.</code>
 </p>
 
 #### 🌱 Internship Experience
 
 <p>
-<strong>Capgemini</strong> -- <code>AI Product Manager Assistant</code> -- <code>2026.03 to 2026.07.</code><br/>
-<strong>SCSLAB, USYD</strong> -- <code>Research Assistant</code> -- <code>2024.11 to 2025.03.</code>
+<strong>Capgemini</strong> -- <code>Recruitment Digital Human Team</code> -- <code>2026.03 to 07.</code><br/>
+<strong>SCSLAB, USYD</strong> -- <code>Fake Image Detection Team</code> -- <code>2024.11 to 2025.03.</code>
 </p>
 
 </td>
