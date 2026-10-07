@@ -21,7 +21,7 @@
 #### 💼 Work Experience
 
 <p>
-<strong>CloudMinds</strong> -- <code>AI Robot Test Automation</code> -- <code>2024.04 to 07.</code>
+<strong>CloudMinds</strong> -- <code>AI Robot · Test Dev</code> -- <code>2024.04 to 07.</code>
 </p>
 
 #### 🌱 Internship Experience
