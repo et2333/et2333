@@ -28,7 +28,7 @@
 
 <p>
 <strong>Capgemini China</strong> -- <code>AI Product Manager Assistant</code> -- <code>2026.03 to 2026.07.</code><br/>
-<strong>University of Sydney SCSLAB</strong> -- <code>Research Assistant</code> -- <code>2024.11 to 2025.03.</code>
+<strong>SCSLAB, USYD</strong> -- <code>Research Assistant</code> -- <code>2024.11 to 2025.03.</code>
 </p>
 
 </td>
