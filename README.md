@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&color=33CCCC&center=true&vCenter=true&pause=100000&width=560&lines=Here+is+et:)+AI+Agent+Engineer" alt="Here is et. AI Agent Engineer"/>
 
-<!--
-**et2333/et2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" alt="wave"/>
+    <strong>I'm currently focused on Agentic AI &amp; LLM Applications.</strong>
+  </p>
 
-Here are some ideas to get you started:
+  <p>
+    <code>🌊 Born in Zhuhai, China.</code>
+    <code>🎓 University of Sydney · MCS (Data Science &amp; AI).</code>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 💼 Work Experience
+
+<p>
+<strong>CloudMinds</strong> -- <code>Test Development Engineer</code> -- <code>2024.04 to 2024.07.</code>
+</p>
+
+#### 🌱 Internship Experience
+
+<p>
+<strong>Capgemini China</strong> -- <code>AI Product Manager Assistant</code> -- <code>2026.03 to 2026.07.</code><br/>
+<strong>University of Sydney SCSLAB</strong> -- <code>Research Assistant</code> -- <code>2024.11 to 2025.03.</code>
+</p>
+
+</td>
+<td valign="top" width="48%">
+
+#### 🚀 Featured Projects
+
+- 🤖 **[Multi-Agent Cash Flow Assistant](https://github.com/et2333/agentic-bi-analyzer)** | LangGraph · RAG · SSE
+- 🩺 **[AI Health Platform](https://github.com/et2333/sugarless)** | LangChain · Tool Calling · React
+- 📊 **[HR BI Chat](https://github.com/et2333/hr-bi-chat)** | Text-to-SQL Agent · FastAPI
+
+</td>
+</tr>
+</table>
