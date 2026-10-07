@@ -34,7 +34,7 @@
 </td>
 <td valign="top" width="48%">
 
-#### 🚀 Featured Projects
+#### ✨ Featured Projects
 
 - 🤖 **[Multi-Agent Cash Flow Assistant](https://github.com/et2333/agentic-bi-analyzer)** | LangGraph · RAG · SSE
 - 🩺 **[AI Health Platform](https://github.com/et2333/sugarless)** | LangChain · Tool Calling · React
